@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DGChoi3904/typescript-prac/issues"
   },
-  "homepage": "https://github.com/DGChoi3904/typescript-prac#readme"
+  "homepage": "https://github.com/DGChoi3904/typescript-prac#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
