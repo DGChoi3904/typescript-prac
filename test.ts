@@ -1,3 +1,5 @@
+import {data} from "./module-file"
+import {DG} from "./DG"
 const a = 1;
 const b = 2;
 
