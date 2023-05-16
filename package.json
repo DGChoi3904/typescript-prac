@@ -1,0 +1,22 @@
+{
+  "name": "typescript-prac",
+  "version": "0.0.1",
+  "description": "TypeScript 시작하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGChoi3904/typescript-prac.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "DGChoi3904",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DGChoi3904/typescript-prac/issues"
+  },
+  "homepage": "https://github.com/DGChoi3904/typescript-prac#readme"
+}
